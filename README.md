@@ -2,4 +2,5 @@
 ## Design Software
 * Figma
 ## Technology Used
+* JavaScript
 * Next.js
