@@ -4,3 +4,6 @@
 ## Technology Used
 * JavaScript
 * Next.js
+## Showcase
+### Skills 
+* JavaScript
