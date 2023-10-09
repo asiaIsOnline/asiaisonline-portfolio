@@ -5,8 +5,10 @@
 * JavaScript
 * Next.js
 ## Showcase
-### Skills 
+### Skills
 * UX (User Experience) Design
 * UI (User Interface) Design
+* HTML
+* CSS
 * JavaScript
 * TypeScript
