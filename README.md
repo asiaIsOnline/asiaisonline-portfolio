@@ -12,3 +12,5 @@
 * CSS
 * JavaScript
 * TypeScript
+* Node.js
+* Python 
