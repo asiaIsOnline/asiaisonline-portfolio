@@ -17,3 +17,5 @@
 ### Projects
 * Bee & Tea
 * Happy Home Task Manager
+* Budgeteer
+* Perfect Pairings
