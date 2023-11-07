@@ -16,6 +16,7 @@
 * Python 
 ### Projects
 * Bee & Tea
-* Happy Home Task Manager
+* Happy Home Task Manager & Journal
 * Budgeteer
 * Perfect Pairings
+* Horizon Haven
